@@ -5,6 +5,10 @@
 
 using namespace std;
 
+string rearrangeToPlaindrome(string s)
+{
+}
+
 int main()
 {
     string S;
